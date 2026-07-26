@@ -6,7 +6,7 @@ class Solution:
             val = num % 10
             if temp % val == 0 :
                 count += 1
-            num = num //10
+            num //= 10
         return count
 
         

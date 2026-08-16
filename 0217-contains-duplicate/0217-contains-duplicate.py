@@ -6,6 +6,5 @@ class Solution:
         for x in hash_dup.values():
             if x >= 2:
                 return True 
-                break
         else:
              return False

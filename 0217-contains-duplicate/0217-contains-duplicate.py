@@ -1,11 +1,10 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
-     n = False
-     hash_dict = {}
-     for i in nums:
-        hash_dict[i] = hash_dict.get(i,0)+1
-     for j in hash_dict:
-        if hash_dict[j] >= 2:
-            n = True
-     return n
-        
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        hash_dup = {}
+        for i in nums:
+            hash_dup[i] = hash_dup.get(i,0)+1
+        for x in hash_dup.values():
+            if x >= 2:
+                return True 
+        else:
+             return False

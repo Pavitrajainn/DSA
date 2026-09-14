@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pavitrajainn/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pavitrajainn/DSA/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pavitrajainn/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavitrajainn/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |

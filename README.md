@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pavitrajainn/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pavitrajainn/DSA/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pavitrajainn/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Pavitrajainn/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pavitrajainn/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pavitrajainn/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pavitrajainn/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavitrajainn/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pavitrajainn/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pavitrajainn/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pavitrajainn/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavitrajainn/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pavitrajainn/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pavitrajainn/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavitrajainn/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -85,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pavitrajainn/DSA/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

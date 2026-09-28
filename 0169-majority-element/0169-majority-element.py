@@ -1,11 +1,13 @@
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
-        hash = {}
-        max_fac = 0
-        for i in nums:
-            hash[i] = hash.get(i,0)+1
-        for i in hash:
-            if hash[i] > max_fac:
-                max_fac = hash[i]
-                max_element = i
-        return max_element
+        count = 1
+        res = 0
+        for i in range(0,len(nums)):
+            if nums[i] == nums[res] :
+                count += 1
+            else:
+                count -= 1
+            if count == 0:
+                count += 1
+                res = i
+        return nums[res]

@@ -1,4 +1,4 @@
-class Solution:
+class Solution: # this is solve by moore's algorithm
     def majorityElement(self, nums: list[int]) -> int:
         count = 1
         res = 0

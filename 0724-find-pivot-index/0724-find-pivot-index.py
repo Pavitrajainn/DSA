@@ -1,5 +1,5 @@
-class Solution(object):
-    def pivotIndex(self, nums):
+class Solution:
+    def pivotIndex(self, nums: list[int]) -> int:
        n = len(nums)
        pre = []
        pre.append(nums[0])
@@ -13,3 +13,4 @@ class Solution(object):
          pre_total = pre[i]
        return -1
 
+  

@@ -1,23 +1,17 @@
 class Solution(object):
     def subarraySum(self, nums, k):
       n = len(nums)
+      pre = []
       count = 0
-      pre =[]
-      hash ={}
+      dic = {}
       pre.append(nums[0])
-
       for i in range(1,n):
-        pre.append(pre[i-1] + nums[i])
-
-      for i in range(0,n):
-        if pre[i] == k:
+        pre.append( pre[i-1] + nums[i] )
+      for j in range(0,n):
+        value = pre[j] - k
+        if value == 0 :
             count += 1
-
-        value = pre[i] - k
-
-        if value in hash:
-            count += hash[value]
-
-        hash[pre[i]] = hash.get(pre[i],0) + 1
-
-      return count    
+        if value in dic :
+          count = count + dic[value]
+        dic[pre[j]] = dic.get(pre[j],0)+1
+      return count  

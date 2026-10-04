@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pavitrajainn/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pavitrajainn/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Pavitrajainn/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Pavitrajainn/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Pavitrajainn/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pavitrajainn/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavitrajainn/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavitrajainn/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Pavitrajainn/DSA/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |

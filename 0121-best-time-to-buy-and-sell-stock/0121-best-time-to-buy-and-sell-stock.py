@@ -10,5 +10,4 @@ class Solution:
              total = prices[i] - min_price
              if total > max_profit:
                  max_profit = total
-        
         return max_profit 

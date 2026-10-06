@@ -5,7 +5,7 @@ class Solution:
         min_price = prices[0]
         for i in range (1,n):
           if prices[i] < min_price:
-            min_price = prices[i]
+             min_price = prices[i]
           else:
              total = prices[i] - min_price
              if total > max_profit:

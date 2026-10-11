@@ -1,12 +1,14 @@
-class Solution(object):
-    def maxProfit(self, prices):
-       n = len(prices)
-       min_buy = prices[0]
-       max_profit = 0
-       for i in range(1,n):
-         if min_buy > prices[i]:
-            min_buy = prices[i]
-         else:
-            profit = prices[i] - min_buy 
-            max_profit = max(profit , max_profit)
-       return max_profit
+class Solution:
+    def maxProfit(self, prices: list[int]) -> int:
+        n = len(prices)
+        max_profit = 0
+        min_price = prices[0]
+        for i in range (1,n):
+          if prices[i] < min_price:
+             min_price = prices[i]
+          else:
+            if prices[i] - min_price > max_profit:
+                 max_profit = prices[i] - min_price
+        return max_profit 
+
+        

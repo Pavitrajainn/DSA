@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pavitrajainn/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Pavitrajainn/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavitrajainn/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pavitrajainn/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavitrajainn/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pavitrajainn/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pavitrajainn/DSA/tree/master/0242-valid-anagram) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Pavitrajainn/DSA/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavitrajainn/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pavitrajainn/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

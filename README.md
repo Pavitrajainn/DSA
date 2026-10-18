@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pavitrajainn/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Pavitrajainn/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Pavitrajainn/DSA/tree/master/1929-concatenation-of-array) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pavitrajainn/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Pavitrajainn/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pavitrajainn/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pavitrajainn/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavitrajainn/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pavitrajainn/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pavitrajainn/DSA/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Pavitrajainn/DSA/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer

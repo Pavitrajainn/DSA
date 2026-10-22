@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pavitrajainn/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pavitrajainn/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Pavitrajainn/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pavitrajainn/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pavitrajainn/DSA/tree/master/0412-fizz-buzz) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pavitrajainn/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Pavitrajainn/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Pavitrajainn/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Pavitrajainn/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pavitrajainn/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pavitrajainn/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pavitrajainn/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pavitrajainn/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pavitrajainn/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pavitrajainn/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Pavitrajainn/DSA/tree/master/1672-richest-customer-wealth) |

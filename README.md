@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pavitrajainn/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pavitrajainn/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pavitrajainn/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavitrajainn/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pavitrajainn/DSA/tree/master/0724-find-pivot-index) |
@@ -136,17 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Pavitrajainn/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pavitrajainn/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pavitrajainn/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pavitrajainn/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pavitrajainn/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Pavitrajainn/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Pavitrajainn/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Pavitrajainn/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavitrajainn/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -164,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pavitrajainn/DSA/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pavitrajainn/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pavitrajainn/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

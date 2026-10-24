@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pavitrajainn/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Pavitrajainn/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pavitrajainn/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Pavitrajainn/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pavitrajainn/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavitrajainn/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pavitrajainn/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Pavitrajainn/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pavitrajainn/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |

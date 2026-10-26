@@ -1,16 +1,9 @@
-class Solution(object):
-    def findDuplicate(self, nums):
-      slow = nums[0]
-      fast = nums[0]
-      while True:
-        slow = nums[slow]
-        fast = nums[nums[fast]]
-        if slow == fast :
-            break 
-            
-      fast = nums[0]
-      while slow != fast:
-        slow = nums[slow] 
-        fast = nums[fast] 
-      return slow
-       
+class Solution:
+    def findDuplicate(self, nums: list[int]) -> int:
+        hash = {}
+        n = len(nums)
+        for i in nums:
+            hash[i] = hash.get(i,0)+1
+        for i in hash:
+            if hash[i] >= 2:
+                return i
